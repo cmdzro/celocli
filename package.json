@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cmdzro/celocli/issues"
   },
-  "homepage": "https://github.com/cmdzro/celocli#readme"
+  "homepage": "https://github.com/cmdzro/celocli#readme",
+  "dependencies": {
+    "@celo/celocli": "^1.3.0"
+  }
 }
